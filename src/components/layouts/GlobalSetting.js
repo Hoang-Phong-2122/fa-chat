@@ -1,4 +1,4 @@
-class MyGlobleSetting {
+class MyGlobalSetting {
     constructor() {
         this.domain = 'http://thietbi3ae.net';
         this.url = '/';
@@ -8,4 +8,4 @@ class MyGlobleSetting {
     }
 }
 
-export default (new MyGlobleSetting);
+export default (new MyGlobalSetting);
